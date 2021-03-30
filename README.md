@@ -1,1 +1,1 @@
- Não está rodando perfeitamete,  não tive tanto tempo para arrumar os bugs 
+ Não está rodando perfeitamete,  não tive tanto tempo para arrumar os bugs
